@@ -1,4 +1,4 @@
-Simple-bot
+Simple bot
 ==========
 
-Uses kinect to run tasks based on presence. 
+Uses the kinect to run simple tasks based on the presence / absence of people in a room (maybe turn on the music)
